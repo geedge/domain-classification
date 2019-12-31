@@ -1,6 +1,6 @@
 # Domain  Classification
 
-使用url库和cdn库对指定格式dns日志中的域名进行分类
+程序根据url库和cdn库对指定格式dns日志中的域名进行分类
 
 使用makefile进行编译，需要c++11的环境支持
 
